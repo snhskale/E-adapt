@@ -1,7 +1,9 @@
 # e-Adapt: Predicting Student Adaptability in Online Learning
-
+Made by Snehas Kale , Ishaan Thapliyal , Atharve Methre , Vishnu Raj
 This project uses machine learning to predict student adaptability levels in online education environments. It includes data analysis, model training (XGBoost), and a simple application to demonstrate predictions.
 
+Data collection,Data preprocessing, Model Deployment done by Vishnu Raj and Atharve Mhetre
+Model Training and Evaluation done by Snehas Kale and Ishaan Thapliyal
 ---
 
 ## 📁 Files in this Repository
@@ -10,7 +12,7 @@ This project uses machine learning to predict student adaptability levels in onl
 |-------------|-------------|
 | `app.py` | Main Python script for running the application (Flask/Streamlit/etc.) |
 | `Templates/` | HTML templates for frontend (used in app) |
-| `catboost_model.pkl` | Trained CatBoost model saved using pickle |
+| `best_model.pkl` | Trained XGBoost model saved using pickle |
 | `project.ipynb` | Jupyter Notebook with full data preprocessing, EDA, model building |
 | `students_adaptability_level_online_education.csv` | Dataset used for training and testing |
 
