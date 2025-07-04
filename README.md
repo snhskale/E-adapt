@@ -1,6 +1,6 @@
 # e-Adapt: Predicting Student Adaptability in Online Learning
 
-This project uses machine learning to predict student adaptability levels in online education environments. It includes data analysis, model training (CatBoost), and a simple application to demonstrate predictions.
+This project uses machine learning to predict student adaptability levels in online education environments. It includes data analysis, model training (XGBoost), and a simple application to demonstrate predictions.
 
 ---
 
