@@ -6,6 +6,8 @@ Data collection,Data preprocessing, Model Deployment done by Vishnu Raj and Atha
 <br>
 Model Training and Evaluation done by Snehas Kale and Ishaan Thapliyal
 
+The project documentation can be installed from the files in the repo.
+
 ---
 
 ## 📁 Files in this Repository
@@ -17,6 +19,7 @@ Model Training and Evaluation done by Snehas Kale and Ishaan Thapliyal
 | `best_model.pkl` | Trained XGBoost model saved using pickle |
 | `project.ipynb` | Jupyter Notebook with full data preprocessing, EDA, model building |
 | `students_adaptability_level_online_education.csv` | Dataset used for training and testing |
+| `project_doc.pdf` | Project documentation |
 
 ---
 
