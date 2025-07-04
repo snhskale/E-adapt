@@ -5,6 +5,7 @@ This project uses machine learning to predict student adaptability levels in onl
 Data collection,Data preprocessing, Model Deployment done by Vishnu Raj and Atharve Mhetre 
 <br>
 Model Training and Evaluation done by Snehas Kale and Ishaan Thapliyal
+
 ---
 
 ## 📁 Files in this Repository
