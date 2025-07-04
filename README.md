@@ -1,8 +1,9 @@
 # e-Adapt: Predicting Student Adaptability in Online Learning
-Made by Snehas Kale , Ishaan Thapliyal , Atharve Methre , Vishnu Raj
+Made by Snehas Kale , Ishaan Thapliyal , Atharve Methre , Vishnu Raj \n
 This project uses machine learning to predict student adaptability levels in online education environments. It includes data analysis, model training (XGBoost), and a simple application to demonstrate predictions.
 
-Data collection,Data preprocessing, Model Deployment done by Vishnu Raj and Atharve Mhetre
+Data collection,Data preprocessing, Model Deployment done by Vishnu Raj and Atharve Mhetre 
+\n
 Model Training and Evaluation done by Snehas Kale and Ishaan Thapliyal
 ---
 
